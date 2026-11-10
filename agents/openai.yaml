@@ -1,0 +1,4 @@
+interface:
+  display_name: "NonDef Writing"
+  short_description: "保留620组词条，未覆盖表达按迁移规则改写，仅保护显式免责声明"
+  default_prompt: "请使用 $nondef-writing，结合620组词条修改以下正文，未覆盖的表达按替换规则处理；仅对显式免责声明保留原文并提醒。"
